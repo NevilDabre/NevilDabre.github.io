@@ -1,30 +1,30 @@
 /* Change this file to get your personal Porfolio */
-
 const greeting = {
   /* Your Summary And Greeting Section */
-  title: "Hi all 👋 I'm Saad",
+  title: "Hi, I'm Neville",
   subTitle:
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks",
+    "Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. Seeking to further improve HTML5 and CSS3 skills as the future full stack developer at Atmospheric Solutions.",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
 const socialMediaLinks = {
   /* Your Social Media Link */
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/NevilDabre",
+  linkedin: "https://www.linkedin.com/in/nevilledabre/",
+  gmail: "neville.dabre@gmail.com",
+  medium: "https://gitlab.com/saadpasta",
+  facebook: "https://www.facebook.com/neville.dabreo"
 };
 
 const skillsSection = {
   /* Your Skills Section  */
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
+  subTitle: "FULL STACK DEVELOPER WHO WANT TO EXPLORE EVERY TECH STACK",
   skills: [
-    "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications",
-    "⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks",
-    "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+    "⚡ Develop highly interactive Front end / User Interfaces for your web and backend applications",
+    "⚡ Full stack applications with amazing utilities",
+    "⚡ Integration of third party services such as AWS / Digital Ocean / JenKins / CircleCi & More",
+    "⚡ Extensive experience using multiple standard programming languages",
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon */
@@ -40,10 +40,6 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
     },
@@ -52,12 +48,12 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "angular",
+      fontAwesomeClassname: "fab fa-angular"
     },
     {
-      skillName: "swift",
-      fontAwesomeClassname: "fab fa-swift"
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "npm",
@@ -72,17 +68,25 @@ const skillsSection = {
       fontAwesomeClassname: "fab fa-aws"
     },
     {
+      skillName: "docker",
+      fontAwesomeClassname: "fab fa-docker"
+    },
+    {
+      skillName: "linux",
+      fontAwesomeClassname: "fab fa-linux"
+    },
+    {
+      skillName: "jenkins",
+      fontAwesomeClassname: "fab fa-jenkins"
+    },
+    {
+      skillName: "mongo-db",
+      fontAwesomeClassname: "fab fa-mdb"
+    },
+    {
       skillName: "firebase",
       fontAwesomeClassname: "fas fa-fire"
     },
-    {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
   ]
 };
 
@@ -90,23 +94,28 @@ const openSource = {
   /* Your Open Source Section to View Your Github Pinned Projects */
   /* To know how to get github key look at readme.md */
 
-  githubConvertedToken: "Your Github Converted Token",
-  githubUserName: "Your Github Username"
+  githubConvertedToken: "b3236967e44bdc35bd9e2527202bb8b060647494",
+  githubUserName: "NevilDabre"
 };
 
 const bigProjects = {
   /* Some Big Projects You have worked with your company */
-  title: "Big Projects",
+  title: "Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
-      image: "https://drive.google.com/uc?id=1exWn9T6j8TsfDDHJnS3VR66eP6RiGAfY",
-      link: "http://saayahealth.com/"
+      image: "https://npkdigitalmarketing.herokuapp.com/assets/images/letter-n-png-picture-122x101.png",
+      link: "https://npkdigitalmarketing.herokuapp.com/"
     },
     {
-      image: "http://nextu.se/wp-content/themes/nextu/images/og_img.jpg",
-      link: "http://nextu.se/"
+      image: "https://i.pinimg.com/originals/2f/f3/88/2ff388280f674bcc4f20b3ec440a7bed.jpg",
+      link: "https://toolproengineering.herokuapp.com/"
+    },
+    {
+      image: "https://npkcanadaconsultingwebsite.herokuapp.com/assets/images/icon-122x122.png",
+      link: "http://npkcanadaconsultingwebsite.herokuapp.com/"
     }
+    
   ]
 };
 
@@ -199,8 +208,8 @@ const podcastSection = {
 const contactInfo = {
   title: "Contact Me ☎️",
   subtitle: "Discuss a project or just want to say hi my inbox is open for all",
-  number: "+92-3243454077",
-  email_address: "saadpasta70@gmail.com"
+  number: "+1-(519) 577 0354",
+  email_address: "nevile.dabre@gmail.com"
 };
 
 export { greeting, socialMediaLinks, skillsSection, openSource, bigProjects, achievementSection, blogSection, talkSection, podcastSection, contactInfo };
