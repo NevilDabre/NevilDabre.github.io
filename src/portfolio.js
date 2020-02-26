@@ -104,18 +104,29 @@ const bigProjects = {
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
   projects: [
     {
+      title: "Waterloo Driving School",
+      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
+      image: "https://waterloodrivingschool.herokuapp.com//img/logo-blue.png",
+      footerLink: [{ name: "Waterloo Driving School", url: "https://waterloodrivingschool.herokuapp.com/" }]
+    },
+    {
+      title: "NPK Digital Marketing",
+      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://npkdigitalmarketing.herokuapp.com/assets/images/letter-n-png-picture-122x101.png",
-      link: "https://npkdigitalmarketing.herokuapp.com/"
+      footerLink: [{ name: "NPK Digital Marketing", url: "https://npkdigitalmarketing.herokuapp.com/" }]
     },
     {
+      title: "Toolpro Engineering",
+      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://i.pinimg.com/originals/2f/f3/88/2ff388280f674bcc4f20b3ec440a7bed.jpg",
-      link: "https://toolproengineering.herokuapp.com/"
+      footerLink: [{ name: "Toolpro Engineering", url: "https://toolproengineering.herokuapp.com/" }]
     },
     {
+      title: "NPK Canada Consulting",
+      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://npkcanadaconsultingwebsite.herokuapp.com/assets/images/icon-122x122.png",
-      link: "http://npkcanadaconsultingwebsite.herokuapp.com/"
-    }
-    
+      footerLink: [{ name: "NPK Canada Consulting", url: "http://npkcanadaconsultingwebsite.herokuapp.com/" }]
+    },
   ]
 };
 

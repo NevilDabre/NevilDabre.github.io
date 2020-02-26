@@ -33,6 +33,11 @@
   cursor: pointer;
 }
 
+.projects .project-image{
+  height: 192px;
+  width: 192px;
+}
+
 @media (max-width: 768px) {
   .starup-project-image {
     display: none;
