@@ -12,7 +12,7 @@ const socialMediaLinks = {
   github: "https://github.com/NevilDabre",
   linkedin: "https://www.linkedin.com/in/nevilledabre/",
   gmail: "neville.dabre@gmail.com",
-  medium: "https://gitlab.com/saadpasta",
+  medium: "https://medium.com/@nevilledabreo",
   facebook: "https://www.facebook.com/neville.dabreo"
 };
 

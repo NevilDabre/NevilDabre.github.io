@@ -58,7 +58,10 @@ export default function Projects() {
       .then(result => {
         setrepoFunction(result.data.repositoryOwner.pinnedRepositories.edges);
         console.log(result);
-      });
+      })
+      .catch(err=>{
+        console.log('Error = = = ', err);
+      })
   }
 
   function setrepoFunction(array) {
