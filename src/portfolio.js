@@ -3,7 +3,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi, I'm Neville",
   subTitle:
-    "Dedicated and efficient full stack developer with experience in application layers, presentation layers, and databases. Certified in both F/E and B/E technologies. Seeking to further improve HTML5 and CSS3 skills as the future full stack developer at Atmospheric Solutions.",
+    "Performance-driven and motivated Full Stack Developer with extensive experience in participating in all phases of software development. Possess a strong attention to detail, well-developed time management skills, and ability to complete all projects within schedule and in a timely manner.",
   resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
 };
 
@@ -101,31 +101,27 @@ const openSource = {
 const bigProjects = {
   /* Some Big Projects You have worked with your company */
   title: "Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR TECH",
+  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELP TO CREATE THEIR ONLINE RECEIPE",
   projects: [
     {
       title: "Waterloo Driving School",
-      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://waterloodrivingschool.herokuapp.com//img/logo-blue.png",
-      footerLink: [{ name: "Waterloo Driving School", url: "https://waterloodrivingschool.herokuapp.com/" }]
+      footerLink: [{ name: "Driving school website to book appointments.", url: "https://waterloodrivingschool.herokuapp.com/" }]
     },
     {
       title: "NPK Digital Marketing",
-      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://npkdigitalmarketing.herokuapp.com/assets/images/letter-n-png-picture-122x101.png",
-      footerLink: [{ name: "NPK Digital Marketing", url: "https://npkdigitalmarketing.herokuapp.com/" }]
+      footerLink: [{ name: "Digital marketing website to represent client.", url: "https://npkdigitalmarketing.herokuapp.com/" }]
     },
     {
       title: "Toolpro Engineering",
-      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://i.pinimg.com/originals/2f/f3/88/2ff388280f674bcc4f20b3ec440a7bed.jpg",
-      footerLink: [{ name: "Toolpro Engineering", url: "https://toolproengineering.herokuapp.com/" }]
+      footerLink: [{ name: "Engineering company website to repersent their tool portfolio.", url: "https://toolproengineering.herokuapp.com/" }]
     },
     {
       title: "NPK Canada Consulting",
-      description: "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
       image: "https://npkcanadaconsultingwebsite.herokuapp.com/assets/images/icon-122x122.png",
-      footerLink: [{ name: "NPK Canada Consulting", url: "http://npkcanadaconsultingwebsite.herokuapp.com/" }]
+      footerLink: [{ name: "Consulting company for Canada Visa and PR processing.", url: "http://npkcanadaconsultingwebsite.herokuapp.com/" }]
     },
   ]
 };
@@ -175,16 +171,16 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      image: "https://miro.medium.com/max/400/1*pYHONrA_3QM4dgtBSKrYWQ.jpeg",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min."
+      url: "https://medium.com/@nevilledabreo/solution-the-net-cli-tools-cannot-be-located-error-in-visual-studio-code-2ab3c8d88d94",
+      image: "https://miro.medium.com/max/2114/1*xnkNEK8XHKYX7EfnmbJ-bA.png",
+      title: "SOLUTION — “The .NET CLI tools cannot be located.” error in Visual Studio Code",
+      description: "This blog provides the solutions for popular Visual Studio Code Issue."
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      image: "https://miro.medium.com/max/1280/1*o08b2PW-1PVs94riZuhNMA.png",
-      title: "Why REACT Is The Best?",
-      description: "React is a JavaScript library for building the user interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://itnext.io/bower-to-yarn-migration-simple-steps-2a5ad0c43281",
+      image: "https://miro.medium.com/max/3840/1*s0R7uSMGfIi1uk7POqkLhQ.jpeg",
+      title: "Bower to Yarn Migration (Simple steps)",
+      description: "This blog provides the solution to move from Bower."
     }
   ]
 };
